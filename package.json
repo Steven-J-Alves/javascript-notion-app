@@ -1,8 +1,8 @@
 {
-  "name": "javascript-twitter-library",
+  "name": "javascript-twitter-app",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Steven-J-Alves/javascript-twitter-library.git",
+  "repository": "git@github.com:Steven-J-Alves/javascript-twitter-app.git",
   "author": "Steven Alves <stevenalves512@gmail.com>",
   "license": "MIT",
   "scripts": {
